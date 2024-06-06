@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123212 協同產品設計實習 - 41123212 w6</title><link href="./" rel="alternate"></link><link href="./feeds/41123212-w6.atom.xml" rel="self"></link><id>./</id><updated>2024-06-06T07:05:02+08:00</updated><entry><title>41123212 w6</title><link href="./41123212%20w6.html" rel="alternate"></link><published>2024-03-28T11:00:00+08:00</published><updated>2024-06-06T07:05:02+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-28:./41123212 w6.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與偕同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123212 協同產品設計實習 - 41123212 w6</title><link href="./" rel="alternate"></link><link href="./feeds/41123212-w6.atom.xml" rel="self"></link><id>./</id><updated>2024-06-06T08:46:26+08:00</updated><entry><title>41123212 w6</title><link href="./41123212%20w6.html" rel="alternate"></link><published>2024-03-28T11:00:00+08:00</published><updated>2024-06-06T08:46:26+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-28:./41123212 w6.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與偕同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與偕同產品設計實習課程教學導引.&lt;/p&gt;
 
-&lt;p&gt;今天做了分組作業 幫老師影片上字幕&lt;/p&gt;</content><category term="41123212 w6"></category><category term="網誌編寫"></category></entry></feed>
+&lt;h1&gt;導入 NXOpen&lt;/h1&gt;
+&lt;p&gt;import NXOpen&lt;/p&gt;
+&lt;p&gt;def main(): # 取得目前開啟的工作階段 theSession = NXOpen.Session.GetSession() # 建立 ListingWindow listWin= theSession.ListingWindow # 開啟所建立的 ListingWindow listWin.Open() # 在 ListingWindow 中寫入字串 listWin.WriteLine("Hello, NXOpen")&lt;/p&gt;
+&lt;p&gt;if name == "main": main() CoppeliaSim 檔案格式 下載 copsim_midterm_cube2_xml.7z&lt;/p&gt;
+&lt;p&gt;CoppeliaSim 目前提供二位元與 XML 場景格式 XML 場景支援儲存為單一檔案或多個模型與影像檔案 4.5.1 之後的版本, 其設定資料並非在套件目錄, 而是儲存在操作系統的 AppData/Roaming 目錄中 4.5.1 版儲存為多 XML 檔案格式時, 無法帶出場景中的 png 圖檔, 4.6.0 版之後才修正此一錯誤 目前能夠支援 IPv4 與 IPv6 網際場景模擬的版本僅修改至 4.5.1 版 XML 檔案應用廣泛, 協同產品設計過程可能需要利用程式方法處理零組件與模擬場景互相轉換取得的 XML 格式檔案 Sourcetree https://www.sourcetreeapp.com/&lt;/p&gt;
+&lt;p&gt;SourceTree_portable.7z (需要下載密碼)&lt;/p&gt;
+&lt;p&gt;其中必須要在啟動可攜程式時, 利用下列指令將 Sourcetree 先前設定存入操作系統:&lt;/p&gt;
+&lt;p&gt;1 Xcopy %Disk%:\home_ipv6\AppData\Local\Atlassian C:\users\%USERNAME%\AppData\Local\Atlassian /E /H /C /I /Y Git branch Git 分支&lt;/p&gt;
+&lt;p&gt;Odoo PLM Odoo PLM&lt;/p&gt;
+&lt;p&gt;2021 ANALYSIS OF THE ODOO SOFTWARE CAPABILITIES REGARDING PRODUCT LIFECYCLE MANAGEMENT, MANUFACTURING EXECUTION SYSTEMS AND THEIR INTEGRATION.pdf or local download (password required) (Odoo 軟體在產品生命週期管理、製造執行系統及其整合上的功能分析)&lt;/p&gt;
+&lt;p&gt;網誌編寫 41123214&lt;/p&gt;</content><category term="41123212 w6"></category><category term="網誌編寫"></category></entry></feed>

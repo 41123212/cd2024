@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123212 協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-25T06:41:17+08:00</updated><entry><title>41123212 w9</title><link href="./41123212%20w9.html" rel="alternate"></link><published>2024-04-18T11:00:00+08:00</published><updated>2024-04-25T06:41:17+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-18:./41123212 w9.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與偕同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123212 協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-06T07:08:32+08:00</updated><entry><title>41123212 w9</title><link href="./41123212%20w9.html" rel="alternate"></link><published>2024-04-18T11:00:00+08:00</published><updated>2024-06-06T07:05:02+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-18:./41123212 w9.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與偕同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與偕同產品設計實習課程教學導引.&lt;/p&gt;
 
 
-&lt;p&gt;這是我期中報告總整理[期中報告] (https://youtu.be/htGjE6-hTY4?si=Mh_2y1yvr_tXEHTy)&lt;/p&gt;</content><category term="41123212 w9"></category><category term="網誌編寫"></category></entry><entry><title>41123212 w6</title><link href="./41123212%20w6.html" rel="alternate"></link><published>2024-03-28T11:00:00+08:00</published><updated>2024-04-25T06:41:17+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-28:./41123212 w6.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與偕同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;這是我期中報告總整理[期中報告] (https://youtu.be/htGjE6-hTY4?si=Mh_2y1yvr_tXEHTy)&lt;/p&gt;</content><category term="41123212 w9"></category><category term="網誌編寫"></category></entry><entry><title>41123212 w6</title><link href="./41123212%20w6.html" rel="alternate"></link><published>2024-03-28T11:00:00+08:00</published><updated>2024-06-06T07:05:02+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-28:./41123212 w6.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與偕同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與偕同產品設計實習課程教學導引.&lt;/p&gt;
 
-&lt;p&gt;今天做了分組作業 幫老師影片上字幕&lt;/p&gt;</content><category term="41123212 w6"></category><category term="網誌編寫"></category></entry><entry><title>41123212 w5</title><link href="./41123212%20w5.html" rel="alternate"></link><published>2024-03-21T11:00:00+08:00</published><updated>2024-04-25T06:41:17+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-21:./41123212 w5.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與偕同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;今天做了分組作業 幫老師影片上字幕&lt;/p&gt;</content><category term="41123212 w6"></category><category term="網誌編寫"></category></entry><entry><title>41123212 w5</title><link href="./41123212%20w5.html" rel="alternate"></link><published>2024-03-21T11:00:00+08:00</published><updated>2024-06-06T07:05:02+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-21:./41123212 w5.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與偕同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與偕同產品設計實習課程教學導引.&lt;/p&gt;
 
 &lt;p&gt;w5 2b 分組任務
@@ -25,7 +25,7 @@
 &lt;p&gt;下載NX2027_lite (需要密碼, 解開後約 8G, 這個版本僅供參考)&lt;/p&gt;
 &lt;p&gt;下載 Siemens NX1872.7z (需要登入 @nfu.edu.tw, cd2024 採用電腦安裝的 NX1872 或隨身碟中的 NX1872)&lt;/p&gt;
 &lt;p&gt;使用不同版本 NX 執行繪圖, 該如何協同設計?&lt;/p&gt;
-&lt;p&gt;start_USB_nx1872.bat 可以啟動 USB 隨身碟中的 NX1872, 但必須自行在 NX1872 目錄中新增 temp 目錄用來儲存 NX 的 Syslog 系統狀態檔案.&lt;/p&gt;</content><category term="41123212 w5"></category><category term="網誌編寫"></category></entry><entry><title>41123212 w4</title><link href="./41123212%20w4.html" rel="alternate"></link><published>2024-03-14T11:00:00+08:00</published><updated>2024-04-25T06:41:17+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-14:./41123212 w4.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與偕同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;start_USB_nx1872.bat 可以啟動 USB 隨身碟中的 NX1872, 但必須自行在 NX1872 目錄中新增 temp 目錄用來儲存 NX 的 Syslog 系統狀態檔案.&lt;/p&gt;</content><category term="41123212 w5"></category><category term="網誌編寫"></category></entry><entry><title>41123212 w4</title><link href="./41123212%20w4.html" rel="alternate"></link><published>2024-03-14T11:00:00+08:00</published><updated>2024-06-06T07:05:02+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-14:./41123212 w4.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與偕同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與偕同產品設計實習課程教學導引.&lt;/p&gt;
 
 &lt;p&gt;Odoo 參考文章中英並列
@@ -35,7 +35,7 @@
 &lt;p&gt;Replit 靜態網站檢視
 下載 main2.txt 與 static.txt, 其中包含 main2.py 與 static.py, 只要在 Shell 執行 python3 main2.py 就可以執行倉儲內的靜態網站檢視. 另一方面, 若要取消先前執行 python3 main2.py, 只需要在 Shell 頁面按下 ctrl + c, c 代表 cancle 也就是取消. 然後若要執行動態網站，可以在 Shell 執行 python3 main.py 或者使用 Replit 的 Run 按鍵.&lt;/p&gt;
 &lt;p&gt;說明如何在 Replit 檢視靜態網站教學影片&lt;/p&gt;
-&lt;p&gt;說明如何下載 replit_main2.7z 並在倉儲中建立兩個檔案教學影片&lt;/p&gt;</content><category term="41123212 w4"></category><category term="網誌編寫"></category></entry><entry><title>41123212 w3</title><link href="./41123212%20w3.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-04-25T06:41:17+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-07:./41123212 w3.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與偕同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;說明如何下載 replit_main2.7z 並在倉儲中建立兩個檔案教學影片&lt;/p&gt;</content><category term="41123212 w4"></category><category term="網誌編寫"></category></entry><entry><title>41123212 w3</title><link href="./41123212%20w3.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-06-06T07:05:02+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-07:./41123212 w3.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與偕同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與偕同產品設計實習課程教學導引.&lt;/p&gt;
 
 &lt;p&gt;期中協同分組報告
@@ -56,7 +56,7 @@ Gitpod 與 Codespaces 類似, 也是採用 Visual Studio Code 網際介面, 可�
 &lt;p&gt;說明使用 Gitpod 維護分組網站&lt;/p&gt;
 &lt;p&gt;電腦教室中的協同設計
 cd2024 起, 電腦輔助設計室中的每一台電腦已經各自擁有一個外部 IPv4 網址, 因此各組員可將個人倉儲與分組倉儲 git clone 至隨身碟, 利用 Token 或 SSH session 授權維護倉儲與網站內容.&lt;/p&gt;
-&lt;p&gt;如何利用 Classic Token 授權維護倉儲與網站&lt;/p&gt;</content><category term="41123212 w3"></category><category term="網誌編寫"></category></entry><entry><title>41123212 w2</title><link href="./41123212%20w2.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-04-25T06:41:17+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./41123212 w2.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與偕同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;如何利用 Classic Token 授權維護倉儲與網站&lt;/p&gt;</content><category term="41123212 w3"></category><category term="網誌編寫"></category></entry><entry><title>41123212 w2</title><link href="./41123212%20w2.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-06-06T07:05:02+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./41123212 w2.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與偕同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與偕同產品設計實習課程教學導引.&lt;/p&gt;
 
 &lt;p&gt;利用 Github Classroom 指定分組倉儲
@@ -73,19 +73,19 @@ cd2024 起, 電腦輔助設計室中的每一台電腦已經各自擁有一個�
 &lt;p&gt;利用 Codespaces 維護倉儲與網站
 說明如何利用 Github Codespaces 維護網站內容&lt;/p&gt;
 &lt;p&gt;設定網誌
-利用 [OBS] 加上廣播系統錄製的: 如何設定個人倉儲中的 Pelican 網誌&lt;/p&gt;</content><category term="41123212 w2"></category><category term="網誌編寫"></category></entry><entry><title>41123212 w1</title><link href="./41123212%20w1.html" rel="alternate"></link><published>2024-02-22T11:00:00+08:00</published><updated>2024-04-25T06:41:17+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-22:./41123212 w1.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與偕同產品設計實習課程教學導引.&lt;/p&gt;
+利用 [OBS] 加上廣播系統錄製的: 如何設定個人倉儲中的 Pelican 網誌&lt;/p&gt;</content><category term="41123212 w2"></category><category term="網誌編寫"></category></entry><entry><title>41123212 w1</title><link href="./41123212%20w1.html" rel="alternate"></link><published>2024-02-22T11:00:00+08:00</published><updated>2024-06-06T07:08:32+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-22:./41123212 w1.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與偕同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與偕同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;p&gt;2024 Spring 協同產品設計實習的教學主要介紹 OnShape、Coppeliasim 與 Odoo PLM 在機械設計流程中的應用.&lt;/p&gt;
-&lt;p&gt;2b 建個人課程倉儲
-登入 github.com, 連結到 https://github.com/mdecycu/cmsimde_site, 利用此倉儲作為 Template, 新增一個名稱為 cd2024 的倉儲, 並且將其 main 分支設為網頁根目錄.&lt;/p&gt;
+&lt;h1&gt;2b 建個人課程倉儲&lt;/h1&gt;
+&lt;p&gt;登入 github.com, 連結到 https://github.com/mdecycu/cmsimde_site, 利用此倉儲作為 Template, 新增一個名稱為 cd2024 的倉儲, 並且將其 main 分支設為網頁根目錄.&lt;/p&gt;
 &lt;p&gt;https://github.com/mdecycu/cmsimde_site 與 https://github.com/mdecycu/cmsite 的差別為, 目前的 Template 將 cmsimde 當作目錄, 而非 cmsite 中的子模組.&lt;/p&gt;
 &lt;p&gt;上述建立個人課程 cd2024 倉儲與網站的操作影片, 建立的範例網站為: https://scrum-1.github.io/cd2024/&lt;/p&gt;
-&lt;p&gt;下載可攜套件檔案
-下載可攜程式環境: portable_2024.7z (需要密碼, 下載 540MB, 解開壓縮後約 1.8GB)&lt;/p&gt;
+&lt;h1&gt;下載可攜套件檔案&lt;/h1&gt;
+&lt;p&gt;下載可攜程式環境: portable_2024.7z (需要密碼, 下載 540MB, 解開壓縮後約 1.8GB)&lt;/p&gt;
 &lt;p&gt;下載 miktex-portable.7z (需要密碼, 下載 167MB, 解開壓縮檔案後約 1GB)&lt;/p&gt;
-&lt;p&gt;將個人倉儲 import 至 Replit
-從 Replit 帳號下方的 Account, Connected Services(連線服務區) 點選 Connect 後, 讓 Github 授權 Replit, 將在 Replit 中的倉儲改版後, 有權限推回 Github. 設定 Replit 與 Github 應用授權的說明影片&lt;/p&gt;
+&lt;h1&gt;將個人倉儲 import 至 Replit&lt;/h1&gt;
+&lt;p&gt;從 Replit 帳號下方的 Account, Connected Services(連線服務區) 點選 Connect 後, 讓 Github 授權 Replit, 將在 Replit 中的倉儲改版後, 有權限推回 Github. 設定 Replit 與 Github 應用授權的說明影片&lt;/p&gt;
 &lt;p&gt;在 Replit Editor(編輯器中) 使用 Ctrl + z 執行 undo&lt;/p&gt;
 &lt;p&gt;在 Replit Editor(編輯器中) 使用 Ctrl + y 執行 redo&lt;/p&gt;</content><category term="41123212 w1"></category><category term="網誌編寫"></category></entry></feed>
